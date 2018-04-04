@@ -1,0 +1,10 @@
+C:\Users\Vu Hoang\source\repos\MenuStudent\MenuStudent\bin\Debug\MenuStudent.exe.config
+C:\Users\Vu Hoang\source\repos\MenuStudent\MenuStudent\bin\Debug\MenuStudent.exe
+C:\Users\Vu Hoang\source\repos\MenuStudent\MenuStudent\bin\Debug\MenuStudent.pdb
+C:\Users\Vu Hoang\source\repos\MenuStudent\MenuStudent\obj\Debug\MenuStudent.csprojResolveAssemblyReference.cache
+C:\Users\Vu Hoang\source\repos\MenuStudent\MenuStudent\obj\Debug\MenuStudent.csproj.CoreCompileInputs.cache
+C:\Users\Vu Hoang\source\repos\MenuStudent\MenuStudent\obj\Debug\MenuStudent.exe
+C:\Users\Vu Hoang\source\repos\MenuStudent\MenuStudent\obj\Debug\MenuStudent.pdb
+C:\Users\Vu Hoang\source\repos\MenuStudent\MenuStudent\bin\Debug\MySql.Data.dll
+C:\Users\Vu Hoang\source\repos\MenuStudent\MenuStudent\bin\Debug\MySql.Data.xml
+C:\Users\Vu Hoang\source\repos\MenuStudent\MenuStudent\obj\Debug\MenuStudent.csproj.CopyComplete
